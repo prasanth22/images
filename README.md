@@ -1,1 +1,3 @@
 # images
+Reading Multiple images from a folder using python cv2.
+i am placing my images folder also here...
